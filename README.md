@@ -3,9 +3,8 @@ A list of Linux comands
 # Linux 
 ## Linux Commands Cheats
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+[![N|Solid](https://logos-marques.com/wp-content/uploads/2021/03/Linux-Symbole-2048x1158.png)](https://nodesource.com/products/nsolid)
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 A list of some common cheats on Linux Terminal:
 
