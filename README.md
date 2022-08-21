@@ -44,5 +44,5 @@ A list of some common cheats on Linux Terminal:
 |history | Show Historic|
 
 ## References
-[link text]('https://phoenixnap.com/kb/linux-commands-cheat-sheet')
+('https://phoenixnap.com/kb/linux-commands-cheat-sheet')
 
