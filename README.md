@@ -1,5 +1,5 @@
-# ProjectZero
-A list of Linux comands 
+# ProjectZero - Language Detect
+ExTrA: A list of Linux comands 
 # Linux 
 ## Linux Commands Cheats
 
